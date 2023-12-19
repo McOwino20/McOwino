@@ -455,7 +455,7 @@ section .title::after {
 }
 
 .skills-content .right .python::before {
-  width: 40%;
+  width: 20%;
   border-radius: 20px;
 }
 
