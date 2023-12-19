@@ -430,7 +430,7 @@ section .title::after {
 }
 
 .skills-content .right .html::before {
-  width: 90%;
+  width: 70%;
   border-radius: 20px;
 }
 
@@ -460,7 +460,7 @@ section .title::after {
 }
 
 .skills-content .right .java::before {
-  width: 55%;
+  width: 23%;
   border-radius: 20px;
 }
 
