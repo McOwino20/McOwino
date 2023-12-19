@@ -435,17 +435,17 @@ section .title::after {
 }
 
 .skills-content .right .css::before {
-  width: 60%;
+  width: 50%;
   border-radius: 20px;
 }
 
 .skills-content .right .js::before {
-  width: 80%;
+  width: 30%;
   border-radius: 20px;
 }
 
 .skills-content .right .php::before {
-  width: 50%;
+  width: 20%;
   border-radius: 20px;
 }
 
