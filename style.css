@@ -450,7 +450,7 @@ section .title::after {
 }
 
 .skills-content .right .mysql::before {
-  width: 70%;
+  width: 20%;
   border-radius: 20px;
 }
 
